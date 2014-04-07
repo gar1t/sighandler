@@ -6,3 +6,4 @@ ebin
 c_src/sighandler_nif.c
 src/sighandler_nif.erl
 *~
+.rebar
